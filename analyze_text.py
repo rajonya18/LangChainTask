@@ -147,6 +147,6 @@ else:
 
 output = str(task_crew.kickoff())
 
-f = open("./Sample_In_Out/output_for_"+filename, "w")
+f = open("./Sample_In_Out/output_latest.txt", "w")
 f.write(output)
 f.close()

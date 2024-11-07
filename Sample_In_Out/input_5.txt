@@ -1,0 +1,22 @@
+Explain the whole text to me within 100 words:
+
+Thing Description:
+The Thing Description (TD) (or W3C WoT Thing Description (TD)) is a royalty-free, open information model with a JSON based representation format for the Internet of Things (IoT). A TD provides a unified way to describe the capabilities of an IoT device or service with its offered data model and functions, protocol usage, and further metadata. Using Thing Descriptions help reduce the complexity of integrating IoT devices and their capabilities into IoT applications.[1]
+
+The TD originated from the Web of Things (WoT) initiative of the international standards organization of the W3C which has the intention to increase the interoperability in the IoT.[2] Since April 2020, the Thing Description[3] is a W3C recommendation (W3C WoT Thing Description 1.0).
+
+In December 2023, the W3C published 1.1 version of the Thing Description recommendation.[4]
+
+Principles:
+The major principle of the Thing Description is to provide a human-readable and machine-interpretable interface description of an IoT device/Thing. In that context, the WoT Thing Description is to the IoT what index.html is to a website: it can be considered as the entry point of a physical or virtual Thing/device.[5] Thing Description are not limited to a specific communication protocol, rather it provides a framework called a WoT Binding Template.[6] Such a Protocol Binding defines the mapping from an Interaction Affordance to concrete messages of a specific IoT protocol such as MQTT, HTTP, CoAP, Modbus or OPC UA.
+
+The WoT Thing Description defines 3 kinds of Interaction Affordances, named Property, Action and Event:
+
+Property:
+An Interaction Affordance that exposes state of an IoT device. This state can then be retrieved (read) and optionally updated (write). Devices can also choose to make Properties observable by pushing the new state after a change.
+
+Action:
+An Interaction Affordance that allows to invoke a function of an IoT device, which manipulates state (e.g., toggling a lamp on or off) or triggers a process on the device (e.g., dim a lamp over time).
+
+Event:
+An Interaction Affordance that describes an event source, which asynchronously pushes event data to the subscribers of the event (e.g., overheating alerts).

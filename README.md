@@ -18,7 +18,7 @@ The prompt should look like - "_Instruction : Target Text_"
 
 **Input Output Format:**
 
-For convenience of keeping a track record of inputs and corresponding outputs, we are required to store the user prompt in a txt file and provide the path of this txt file upon being prompted in the terminal. (This can be changed to accept prompts from the terminal very easily). An output file corresponding to the input file will be stored in the Sample_In_Out folder. We can then match the corresponding input and output files.
+For convenience of keeping a track record of inputs and corresponding outputs, we are required to store the user prompt in a txt file and provide the path of this txt file upon being prompted in the terminal. (This can be changed to accept prompts from the terminal very easily). An output_latest.txt file corresponding to the input file will be stored in the Sample_In_Out folder. We can then match the corresponding input and output files.
 
 Some previously executed test samples have already been included in the Sample_In_Out folder
 
