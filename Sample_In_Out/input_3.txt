@@ -1,0 +1,7 @@
+Count the number of words in the first verse of Jamaican Farewell written below:
+
+Down the bay,
+Where the nights are gay
+And the sun shines daily on the mountaintop.
+I took a trip on a sailing ship
+And when I reached Jamaica I made a stop

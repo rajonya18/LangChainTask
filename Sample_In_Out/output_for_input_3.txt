@@ -1,0 +1,37 @@
+The number of tokens in the target text is:
+
+1. Down
+2. the
+3. bay
+4. Where
+5. the
+6. nights
+7. are
+8. gay
+9. And
+10. the
+11. sun
+12. shines
+13. daily
+14. on
+15. the
+16. mountaintop
+17. I
+18. took
+19. a
+20. trip
+21. on
+22. a
+23. sailing
+24. ship
+25. And
+26. when
+27. I
+28. reached
+29. Jamaica
+30. I
+31. made
+32. a
+33. stop
+
+There are 33 tokens in the target text.
